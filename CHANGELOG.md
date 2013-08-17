@@ -1,6 +1,7 @@
 === HEAD
 
 * Add new Google Analytics snippet.
+* Support for Karma 0.10.
 
 === 0.4.1 (August 6, 2013)
 
